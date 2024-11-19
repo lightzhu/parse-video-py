@@ -86,7 +86,7 @@ video_source_info_mapping = {
         "parser": WeiBo,
     },
     VideoSource.WeiShi: {
-        "domain_list": ["isee.weishi.qq.com"],
+        "domain_list": ["isee.weishi.qq.com","video.weishi.qq.com"],
         "parser": WeiShi,
     },
     VideoSource.XiGua: {
